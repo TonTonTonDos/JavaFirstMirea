@@ -1,4 +1,4 @@
-package ru.mirea.task3;
+package ru.mirea.task3.op3;
 
 public class BookTest {
 
