@@ -1,4 +1,4 @@
-package ru.mirea.task2;
+package ru.mirea.task2.op1;
 import java.util.Scanner;
 
 public class Book {
